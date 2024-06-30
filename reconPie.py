@@ -165,12 +165,3 @@ if __name__ == "__main__":
         csvwriter.writerow(["Type", "Result"])
         for row in data:
             csvwriter.writerow(row)
-                                                                                                                                          ###############################################################
-                                                                                                                                          # bekhater mahdoodiiat sorat internet list                    #
-                                                                                                                                          # subdomain ha ro kahesh dadam                                #
-                                                                                                                                          # tooye site aparat,mykat,yasdl tavanaii neshan               #
-                                                                                                                                          # dadan subdomain vojood dasht vali bekhater filtering        #  
-                                                                                                                                          # dar site youtube ghabel shenasaii nabood(ehtemal midam)     #
-                                                                                                                                          # bekhater vpn natooneste bashe chon rooye sity mesle         #
-                                                                                                                                          # spotify va soundcloud ham test kardam hamin moshkel bood    #
-                                                                                                                                          ###############################################################
